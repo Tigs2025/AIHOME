@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/seth/.gradle/daemon/9.0-milestone-1/and.ai.aihome.app-debug-59:/drawable_outline_adaptive_audio_mic_24.xml.flat",
+        "source": "/Users/seth/.gradle/daemon/9.0-milestone-1/and.ai.aihome.app-main-61:/drawable/outline_adaptive_audio_mic_24.xml"
+    },
+    {
+        "merged": "and.ai.aihome.app-debug-59:/layout_activity_main.xml.flat",
+        "source": "and.ai.aihome.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/seth/.gradle/daemon/9.0-milestone-1/and.ai.aihome.app-debug-59:/layout_activity_main.xml.flat",
+        "source": "/Users/seth/.gradle/daemon/9.0-milestone-1/and.ai.aihome.app-main-61:/layout/activity_main.xml"
+    }
+]

@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "and.ai.aihome.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "and.ai.aihome.app-main-61:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/seth/.gradle/daemon/9.0-milestone-1/and.ai.aihome.app-mergeDebugResources-58:/layout/activity_main.xml",
+        "source": "/Users/seth/.gradle/daemon/9.0-milestone-1/and.ai.aihome.app-main-61:/layout/activity_main.xml"
+    }
+]
